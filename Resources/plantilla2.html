@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<title>Online HTML Editor</title>
+<head>
+    <style>
+        table.border{
+            border-collapse:collapse;
+            
+        }
+        table.border th{
+            padding:5px;
+            border:1px solid black;
+        }
+         table.border td{
+            padding:5px;
+            border:1px solid black;
+        }
+        
+    </style>
+</head>
+<body>
+<table border="0" style="width:100%">
+    <tr>
+        <td style="width:20%"></td>
+        <td style="width:60%" align="center">
+            <table>
+                <tr><td align="center">Procu</td></tr>
+                <tr><td align="center">Direccion: Soyapango</td></tr>
+                <tr><td align="center">Telefono: 1231223</td></tr>
+            </table>
+        </td>
+        <td style="width:20%">
+            <table class="border" style="width:100%">
+                <tr><td align="center">Ruc: 1212</td></tr>
+                <tr><td align="center">Tipo: Boleta</td></tr>
+                <tr><td align="center">Num: 1231223</td></tr>
+            </table>
+        </td>
+    </tr>
+    <tr><td colspan="3" height="20"></td></tr>
+    <tr>
+        <td colspan="2">
+            <table style="width:100%">
+                <tr>
+                <td colspan="1" style="width:20%">Cliente</td>
+                <td colspan="3" style="width:80%; border-bottom: 1px solid black">@USER</td>
+                </tr>
+                <tr>
+                <td colspan="1" style="width:20%">Documento</td>
+                <td colspan="1" style="width:30%; border-bottom: 1px solid black"></td>
+                <td colspan="1" style="width:10%">Fedcha:</td>
+                <td colspan="1" style="width:40%; border-bottom: 1px solid black">@FECHA</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr><td colspan="3" height="20"></td></tr>
+    <tr>
+        <td colspan="3">
+            <table class="border" style="width:100%">
+                <thead style="background-color: #D8D8D8">
+                    <tr>
+                        <th>Numero</th>
+                        <th>Designacion</th>
+                        <th>Email</th>
+                        <th>Salario</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>@ID</td>
+                        <td>@DESIGNATION</td>
+                        <td>@EMAIL</td>
+                        <td>@SALARY</td>
+                    </tr>
+                    <tr>
+                        <td style="border: 0px !important"></td>
+                        <td style="border: 0px !important"></td>
+                        <td align="right">Total:</td>
+                        <td>@TOTAL</td>
+                    </tr>
+                </tbody>
+               
+            </table>
+        </td>
+    </tr>
+    
+</table>
+</body>
+</html>

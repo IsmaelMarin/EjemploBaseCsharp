@@ -1,0 +1,40 @@
+C:\Users\ismae\source\repos\DefinitivoCreacionBufete\bin\Debug\DefinitivoCreacionBufete.exe.config
+C:\Users\ismae\source\repos\DefinitivoCreacionBufete\bin\Debug\DefinitivoCreacionBufete.exe
+C:\Users\ismae\source\repos\DefinitivoCreacionBufete\bin\Debug\DefinitivoCreacionBufete.pdb
+C:\Users\ismae\source\repos\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.csproj.AssemblyReference.cache
+C:\Users\ismae\source\repos\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.Form1.resources
+C:\Users\ismae\source\repos\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.Properties.Resources.resources
+C:\Users\ismae\source\repos\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.csproj.GenerateResource.cache
+C:\Users\ismae\source\repos\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.csproj.CoreCompileInputs.cache
+C:\Users\ismae\source\repos\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.exe
+C:\Users\ismae\source\repos\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.pdb
+C:\Users\ismae\source\repos\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.AgregarCarpeta.resources
+C:\Users\ismae\source\repos\Ejemplo\DefinitivoCreacionBufete\bin\Debug\DefinitivoCreacionBufete.exe.config
+C:\Users\ismae\source\repos\Ejemplo\DefinitivoCreacionBufete\bin\Debug\DefinitivoCreacionBufete.exe
+C:\Users\ismae\source\repos\Ejemplo\DefinitivoCreacionBufete\bin\Debug\DefinitivoCreacionBufete.pdb
+C:\Users\ismae\source\repos\Ejemplo\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.csproj.AssemblyReference.cache
+C:\Users\ismae\source\repos\Ejemplo\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.AgregarCarpeta.resources
+C:\Users\ismae\source\repos\Ejemplo\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.Form1.resources
+C:\Users\ismae\source\repos\Ejemplo\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.Properties.Resources.resources
+C:\Users\ismae\source\repos\Ejemplo\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.csproj.GenerateResource.cache
+C:\Users\ismae\source\repos\Ejemplo\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.csproj.CoreCompileInputs.cache
+C:\Users\ismae\source\repos\Ejemplo\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.exe
+C:\Users\ismae\source\repos\Ejemplo\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.pdb
+C:\Users\USER 1\Downloads\DefinitivoCreacionBufete\DefinitivoCreacionBufete\bin\Debug\DefinitivoCreacionBufete.exe.config
+C:\Users\USER 1\Downloads\DefinitivoCreacionBufete\DefinitivoCreacionBufete\bin\Debug\DefinitivoCreacionBufete.exe
+C:\Users\USER 1\Downloads\DefinitivoCreacionBufete\DefinitivoCreacionBufete\bin\Debug\DefinitivoCreacionBufete.pdb
+C:\Users\USER 1\Downloads\DefinitivoCreacionBufete\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.csproj.AssemblyReference.cache
+C:\Users\USER 1\Downloads\DefinitivoCreacionBufete\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER 1\Downloads\DefinitivoCreacionBufete\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.AgregarCarpeta.resources
+C:\Users\USER 1\Downloads\DefinitivoCreacionBufete\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.Form1.resources
+C:\Users\USER 1\Downloads\DefinitivoCreacionBufete\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.Properties.Resources.resources
+C:\Users\USER 1\Downloads\DefinitivoCreacionBufete\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.csproj.GenerateResource.cache
+C:\Users\USER 1\Downloads\DefinitivoCreacionBufete\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.csproj.CoreCompileInputs.cache
+C:\Users\USER 1\Downloads\DefinitivoCreacionBufete\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.exe
+C:\Users\USER 1\Downloads\DefinitivoCreacionBufete\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.pdb
+C:\Users\USER 1\Downloads\DefinitivoCreacionBufete\DefinitivoCreacionBufete\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USER 1\Downloads\DefinitivoCreacionBufete\DefinitivoCreacionBufete\bin\Debug\itextsharp.dll
+C:\Users\USER 1\Downloads\DefinitivoCreacionBufete\DefinitivoCreacionBufete\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\USER 1\Downloads\DefinitivoCreacionBufete\DefinitivoCreacionBufete\bin\Debug\itextsharp.xml
+C:\Users\USER 1\Downloads\DefinitivoCreacionBufete\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.csproj.CopyComplete
+C:\Users\USER 1\Downloads\DefinitivoCreacionBufete\DefinitivoCreacionBufete\obj\Debug\DefinitivoCreacionBufete.Form2.resources
